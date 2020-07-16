@@ -1,0 +1,5 @@
+"auth" : {
+    "url" : "http://localhost:4000/auth",
+    "username" : "SET_YOUR_USERNAME"
+    "password" : "SET_YOUR_PASSWORD"
+}

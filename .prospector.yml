@@ -1,0 +1,10 @@
+output-format: grouped
+strictness: veryhigh
+test-warnings: true
+max-line-length: 100
+pep8:
+    full: true
+pylint:
+    full: true
+pyflakes:
+    full: true

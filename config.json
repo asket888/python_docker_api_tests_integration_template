@@ -1,0 +1,7 @@
+{
+    "auth" : {
+        "url": "http://localhost:4000/auth",
+        "username": "candidate",
+        "password": "2019"
+    }
+}

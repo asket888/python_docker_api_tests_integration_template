@@ -1,0 +1,20 @@
+# IDE #
+.idea/*
+__pycache__/
+
+
+# Compiled source #
+*.pyc
+
+
+# Reporting and logs #
+allure-report/*
+artifacts/*
+*.log
+
+
+# Configuration files
+
+
+# OS generated files #
+.DS_Store
