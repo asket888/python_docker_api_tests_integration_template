@@ -5,7 +5,9 @@ This is a project to show how python-api tests running could be implemented with
 `docker` and `docker-compose`
 
 # Setup
-git clone `git@github.com:asket888/python_docker_api_tests_integration_template.git`
+```bash
+git clone git@github.com:asket888/python_docker_api_tests_integration_template.git
+```
 
 # Command line Execution:
 1. navigate to project directory
